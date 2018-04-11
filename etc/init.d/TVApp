@@ -1,0 +1,65 @@
+#!/bin/sh
+#
+# TVApp
+# To start the script automatically at bootup type the following command
+# update-rc.d rtorrent defaults 99
+#
+
+NAME=TVApp
+USER=matej
+PIDFILE=/var/run/TVApp.pid
+TVAPP=/home/matej/TV/tvapp
+XINIT=/usr/bin/xinit
+DESC="TV Application:"
+
+. /lib/lsb/init-functions
+
+
+case $1 in
+
+    start)
+        log_action_msg "Starting $DESC"
+        log_daemon_msg "   Starting $NAME.." 
+        ls -R /home/matej/Videos/ >/dev/null 2>&1
+        if start-stop-daemon --start --background --name $NAME --pidfile $PIDFILE --make-pidfile --chuid $USER --exec $XINIT -- $TVAPP; then
+            log_end_msg 0
+        else
+            log_end_msg 1
+        fi
+    ;;
+
+    stop)
+        log_action_msg "Stopping $DESC"
+        log_daemon_msg "   Stopping $NAME.."
+        if start-stop-daemon --stop --pidfile $PIDFILE; then
+            log_end_msg 0
+        else
+            log_end_msg 1
+        fi
+    ;;
+
+    restart)
+        log_action_msg "Stopping $DESC"
+        log_daemon_msg "   Stopping $NAME.."
+        if start-stop-daemon --stop --pidfile $PIDFILE; then
+            log_end_msg 0
+        else
+            log_end_msg 1
+        fi
+        log_action_msg "Starting $DESC"
+        log_daemon_msg "   Starting $NAME.."
+        ls -R /home/matej/Videos/ >/dev/null 2>&1
+        if start-stop-daemon --start --background --name $NAME --pidfile $PIDFILE --make-pidfile --chuid $USER --exec $XINIT -- $TVAPP; then
+            log_end_msg 0
+        else
+            log_end_msg 1
+        fi
+
+    ;;
+            
+    *)
+        # show the options
+        echo "Usage: {start|stop}"
+    ;;
+esac
+

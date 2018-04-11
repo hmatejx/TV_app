@@ -1,0 +1,286 @@
+#EXTM3U
+#EXTINF:0,1 - Radio Antena
+udp://@239.1.2.162:5000
+
+#EXTINF:0,2 - Radio Center
+udp://@239.1.2.163:5000
+
+#EXTINF:0,3 - Radio Ekspres
+udp://@239.1.2.161:5000
+
+#EXTINF:0,4 - Radio Glas Ljubljane
+udp://@239.1.2.164:5000
+
+#EXTINF:0,5 - Radio HIT
+udp://@239.1.2.160:5000
+
+#EXTINF:0,6 - Radio Salomon
+udp://@239.1.2.165:5000
+
+#EXTINF:0,7 - Radio Slovenija 1
+udp://@239.1.2.1:5000
+
+#EXTINF:0,8 - Radio Zeleni Val
+udp://@239.1.2.166:5000
+
+#EXTINF:0,9 - Radio Ena
+udp://@239.1.2.167:5000;prefill=5000&avsyncwait=no
+
+#EXTINF:0,10 - Val 202
+udp://@239.1.2.2:5000
+
+#EXTINF:0,11 - ARS
+udp://@239.1.2.3:5000
+
+#EXTINF:0,12 - Radio Slovenia International
+udp://@239.1.2.4:5000
+
+#EXTINF:0,13 - Radio Ognjišče
+udp://@239.1.2.5:5000
+
+#EXTINF:0,14 - Radio Montenegro
+udp://@239.1.2.6:5000
+
+#EXTINF:0,15 - Lijepa Naša
+udp://@239.1.2.124:5000
+
+#EXTINF:0,16 - Prvi Program HR
+udp://@239.1.2.7:5000
+
+#EXTINF:0,17 - Drugi Program HR
+udp://@239.1.2.8:5000
+
+#EXTINF:0,18 - Treći Program HR
+udp://@239.1.2.9:5000
+
+#EXTINF:0,19 - Otvoreni Radio
+udp://@239.1.2.10:5000
+
+#EXTINF:0,20 - Radio Dalmacija
+udp://@239.1.2.11:5000
+
+#EXTINF:0,21 - Doina-Vlaški Raj
+udp://@239.1.2.118:5000
+
+#EXTINF:0,22 - Grand Radio
+udp://@239.1.2.119:5000
+
+#EXTINF:0,23 - Jugradio
+udp://@239.1.2.120:5000
+
+#EXTINF:0,24 - Kiss Radio
+udp://@239.1.2.121:5000
+
+#EXTINF:0,25 - Kiss Rom Radio
+udp://@239.1.2.122:5000
+
+#EXTINF:0,26 - MB Radio Paris
+udp://@239.1.2.132:5000
+
+#EXTINF:0,27 - Mega Radio
+udp://@239.1.2.129:5000
+
+#EXTINF:0,28 - Radio Fleš
+udp://@239.1.2.126:5000
+
+#EXTINF:0,29 - Radio Pink
+udp://@239.1.2.12:5000
+
+#EXTINF:0,30 - Radio Srna
+udp://@239.1.2.127:5000
+
+#EXTINF:0,31 - Radio Svet Plus
+udp://@239.1.2.128:5000
+
+#EXTINF:0,32 - Tref Radio
+udp://@239.1.2.130:5000
+
+#EXTINF:0,33 - Vulkan Radio
+udp://@239.1.2.125:5000
+
+#EXTINF:0,34 - Yu Planet Radio
+udp://@239.1.2.131:5000
+
+#EXTINF:0,35 - CNN Radio
+udp://@239.1.2.50:5000
+
+#EXTINF:0,36 - Family Radio International 1
+udp://@239.1.2.100:5000
+
+#EXTINF:0,37 - Family Radio International 2
+udp://@239.1.2.98:5000
+
+#EXTINF:0,38 - Holiday FM
+udp://@239.1.2.99:5000
+
+#EXTINF:0,39 - Ram Raj Radio
+udp://@239.1.2.123:5000
+
+#EXTINF:0,40 - RCI 1
+udp://@239.1.2.92:5000
+
+#EXTINF:0,41 - RCI 2
+udp://@239.1.2.91:5000
+
+#EXTINF:0,42 - RCI 3
+udp://@239.1.2.89:5000
+
+#EXTINF:0,43 - RTE
+udp://@239.1.2.93:5000
+
+#EXTINF:0,44 - TBC London
+udp://@239.1.2.95:5000
+
+#EXTINF:0,45 - The Voice
+udp://@239.1.2.96:5000
+
+#EXTINF:0,46 - WRN Radio English
+udp://@239.1.2.85:5000
+
+#EXTINF:0,47 - Bayern 4 Klassik
+udp://@239.1.2.56:5000
+
+#EXTINF:0,48 - Deutschlandfunk
+udp://@239.1.2.61:5000
+
+#EXTINF:0,49 - Deutschlandradio Kultur
+udp://@239.1.2.60:5000
+
+#EXTINF:0,50 - DW 1
+udp://@239.1.2.110:5000
+
+#EXTINF:0,51 - DW 2
+udp://@239.1.2.111:5000
+
+#EXTINF:0,52 - HR 2
+udp://@239.1.2.53:5000
+
+#EXTINF:0,53 - MDR Figaro
+udp://@239.1.2.52:5000
+
+#EXTINF:0,54 - MDR Info
+udp://@239.1.2.54:5000
+
+#EXTINF:0,55 - MDR Sputnik
+udp://@239.1.2.55:5000
+
+#EXTINF:0,56 - NDR Kultur
+udp://@239.1.2.51:5000
+
+#EXTINF:0,57 - Radio San
+udp://@239.1.2.81:5000
+
+#EXTINF:0,58 - SWR2
+udp://@239.1.2.57:5000
+
+#EXTINF:0,59 - WDR 3
+udp://@239.1.2.58:5000
+
+#EXTINF:0,60 - WDR 5
+udp://@239.1.2.59:5000
+
+#EXTINF:0,61 - WRN Radio Deutsch
+udp://@239.1.2.86:5000
+
+#EXTINF:0,62 - Discoradio
+udp://@239.1.2.64:5000
+
+#EXTINF:0,63 - Popolare
+udp://@239.1.2.67:5000
+
+#EXTINF:0,64 - Radicale
+udp://@239.1.2.73:5000
+
+#EXTINF:0,65 - Radio Eurospin
+udp://@239.1.2.66:5000
+
+#EXTINF:0,66 - Radio Italia Anni 60
+udp://@239.1.2.76:5000
+
+#EXTINF:0,67 - Radio Italia SMI
+udp://@239.1.2.74:5000
+
+#EXTINF:0,68 - Radio Kolbe
+udp://@239.1.2.70:5000
+
+#EXTINF:0,69 - Radio Maria
+udp://@239.1.2.62:5000
+
+#EXTINF:0,70 - Radio Padania Libera
+udp://@239.1.2.72:5000
+
+#EXTINF:0,71 - Radio Radio
+udp://@239.1.2.65:5000
+
+#EXTINF:0,72 - Radio Reporter
+udp://@239.1.2.75:5000
+
+#EXTINF:0,73 - Radio Speranza
+udp://@239.1.2.68:5000
+
+#EXTINF:0,74 - Radio Target
+udp://@239.1.2.63:5000
+
+#EXTINF:0,75 - Radio Zeta
+udp://@239.1.2.71:5000
+
+#EXTINF:0,76 - RDS Radio
+udp://@239.1.2.78:5000
+
+#EXTINF:0,77 - AWR Radio
+udp://@239.1.2.102:5000
+
+#EXTINF:0,78 - Cherie FM
+udp://@239.1.2.115:5000
+
+#EXTINF:0,79 - NRJ
+udp://@239.1.2.112:5000
+
+#EXTINF:0,80 - Radio Nostalgie
+udp://@239.1.2.114:5000
+
+#EXTINF:0,81 - Radio Orient
+udp://@239.1.2.107:5000
+
+#EXTINF:0,82 - RCF
+udp://@239.1.2.106:5000
+
+#EXTINF:0,83 - Rire et Chansons
+udp://@239.1.2.113:5000
+
+#EXTINF:0,84 - WRN Radio Francais
+udp://@239.1.2.87:5000
+
+#EXTINF:0,85 - Aden Radio
+udp://@239.1.2.82:5000
+
+#EXTINF:0,86 - Radio Dijila
+udp://@239.1.2.133:5000
+
+#EXTINF:0,87 - Radio Sout Al-Shaab
+udp://@239.1.2.80:5000
+
+#EXTINF:0,88 - Radio Sout Al-Shbab
+udp://@239.1.2.79:5000
+
+#EXTINF:0,89 - Makedonsko Radio
+udp://@239.1.2.116:5000
+
+#EXTINF:0,90 - Radio Armenia
+udp://@239.1.2.109:5000
+
+#EXTINF:0,91 - Radio 2000
+udp://@239.1.2.105:5000
+
+#EXTINF:0,92 - Kanal Melodia
+udp://@239.1.2.117:5000
+
+#EXTINF:0,93 - WRN Radio Russkiy
+udp://@239.1.2.84:5000
+
+#EXTINF:0,94 - Ylesat 1
+udp://@239.1.2.103:5000
+
+#EXTINF:0,95 - Ylesat 2
+udp://@239.1.2.104:5000
+

@@ -1,0 +1,523 @@
+﻿#EXTM3U
+#EXTINF:0,1 - SLO 1
+udp://@239.1.1.115:5000
+#EXTINF:0,2 - SLO 2
+udp://@239.1.1.116:5000
+#EXTINF:0,3 - Kanal A
+udp://@239.1.1.8:5000
+#EXTINF:0,4 - POP TV
+udp://@239.1.1.9:5000
+#EXTINF:0,5 - TV Pink 3
+udp://@239.1.1.213:5500
+#EXTINF:0,6 - SLO 3
+udp://@239.1.1.11:5000
+#EXTINF:0,7 - POP KINO
+udp://@239.15.1.0:5000
+#EXTINF:0,8 - POP KINO 2
+udp://@239.15.1.4:5000
+#EXTINF:0,9 - POP BRIO
+udp://@239.15.1.8:5000
+#EXTINF:0,10 - POP FANI
+udp://@239.15.1.12:5000
+#EXTINF:0,11 - POP OTO
+udp://@239.15.1.16:5000
+#EXTINF:0,12 - POP SPOT
+udp://@239.15.1.20:5000
+#EXTINF:0,13 - TV Koper
+udp://@239.1.1.200:5000
+#EXTINF:0,14 - TV Maribor
+udp://@239.1.1.4:5000
+#EXTINF:0,15 - Info TV
+udp://@239.1.1.10:5000
+#EXTINF:0,16 - Net TV
+udp://@239.1.1.20:5000
+#EXTINF:0,17 - RTS Maribor
+udp://@239.1.1.23:5000
+#EXTINF:0,18 - TV AS
+udp://@239.1.1.21:5000
+#EXTINF:0,19 - TV Exodus
+udp://@239.1.1.13:5000
+#EXTINF:0,20 - TV Primorka
+udp://@239.1.1.16:5000
+#EXTINF:0,21 - Vaš kanal
+udp://@239.1.1.32:5000
+#EXTINF:0,22 - VTV Velenje
+udp://@239.1.1.15:5000
+#EXTINF:0,23 - Animal Planet
+udp://@239.1.1.34:1234
+#EXTINF:0,24 - Crime & Investigation Channel
+udp://@239.1.1.232:5000
+#EXTINF:0,25 - Da Vinci Learning
+udp://@239.1.1.158:5000
+#EXTINF:0,26 - Discovery Channel
+udp://@239.1.1.53:5000
+#EXTINF:0,27 - Discovery Science
+udp://@239.1.1.55:5000
+#EXTINF:0,28 - Discovery T & L
+udp://@239.1.1.56:5000
+#EXTINF:0,29 - Discovery World
+udp://@239.1.1.54:5000
+#EXTINF:0,30 - English Club TV
+udp://@239.1.1.247:5000
+#EXTINF:0,31 - Fishing & Hunting
+udp://@239.1.1.127:5000
+#EXTINF:0,32 - National Geographic
+udp://@239.1.1.85:5000
+#EXTINF:0,33 - National Geographic Wild
+udp://@239.1.1.31:5000
+#EXTINF:0,34 - History Channel
+udp://@239.1.1.135:5000
+#EXTINF:0,35 - Travel Channel
+udp://@239.1.1.125:5000
+#EXTINF:0,36 - Viasat Explorer
+udp://@239.1.1.133:5500
+#EXTINF:0,37 - Viasat History
+udp://@239.1.1.146:5500
+#EXTINF:0,38 - Viasat Nature
+udp://@239.1.1.208:5500
+#EXTINF:0,39 - Zone Reality
+udp://@239.1.1.100:5000
+#EXTINF:0,40 - Šport TV
+udp://@239.1.1.26:5000
+#EXTINF:0,41 - Šport TV 2
+udp://@239.1.1.38:5000
+#EXTINF:0,42 - Sportklub Slovenija
+udp://@239.1.1.172:5000
+#EXTINF:0,43 - Sportklub +
+udp://@239.1.1.171:5000
+#EXTINF:0,44 - ESPN America
+udp://@239.1.1.196:5000
+#EXTINF:0,45 - ESPN Classic Sport
+udp://@239.1.1.61:5000
+#EXTINF:0,46 - Eurosport
+udp://@239.1.1.63:5000
+#EXTINF:0,47 - Eurosport (NEM)
+udp://@239.1.1.119:5000
+#EXTINF:0,48 - Eurosport 2 North East
+udp://@239.1.1.186:5000
+#EXTINF:0,49 - Extreme Sports
+udp://@239.1.1.67:5000
+#EXTINF:0,50 - Motors TV
+udp://@239.1.1.83:5000
+#EXTINF:0,51 - SPORT1
+udp://@239.1.1.57:5000
+#EXTINF:0,52 - HBO
+udp://@239.16.1.0:5000
+#EXTINF:0,53 - HBO Comedy
+udp://@239.16.1.4:5000
+#EXTINF:0,54 - Cinemax
+udp://@239.16.1.8:5000
+#EXTINF:0,55 - Cinemax 2
+udp://@239.16.1.12:5000
+#EXTINF:0,56 - CineStar TV
+udp://@239.1.1.1:1234
+#EXTINF:0,57 - Fox Crime
+udp://@239.1.1.139:5000
+#EXTINF:0,58 - Fox Life
+udp://@239.1.1.138:5000
+#EXTINF:0,59 - Klasik TV
+udp://@239.1.1.238:5000
+#EXTINF:0,60 - MGM
+udp://@239.1.1.204:5000
+#EXTINF:0,61 - Universal Channel
+udp://@239.1.1.104:5000
+#EXTINF:0,62 - TV1000
+udp://@239.1.1.29:5500
+#EXTINF:0,63 - Baby TV
+udp://@239.1.1.37:5000
+#EXTINF:0,64 - Boomerang
+udp://@239.1.1.189:5000
+#EXTINF:0,65 - Cartoon Network
+udp://@239.1.1.60:5000
+#EXTINF:0,66 - Disney Channel
+udp://@239.1.1.188:5000
+#EXTINF:0,67 - Disney XD
+udp://@239.1.1.76:5000
+#EXTINF:0,68 - Disney Junior
+udp://@239.1.1.235:5000
+#EXTINF:0,69 - Smile of a Child TV
+udp://@239.1.1.28:5000
+#EXTINF:0,70 - TiJi
+udp://@239.1.1.122:5000
+#EXTINF:0,71 - TV Čarli
+udp://@239.1.1.155:5000
+#EXTINF:0,72 - Play TV
+udp://@239.1.1.253:5000
+#EXTINF:0,73 - TV Golica
+udp://@239.1.1.156:5000
+#EXTINF:0,74 - TV Petelin
+udp://@239.1.1.157:5000
+#EXTINF:0,75 - TV Veseljak
+udp://@239.1.1.12:5000
+#EXTINF:0,76 - BN Music
+udp://@239.1.1.184:5000
+#EXTINF:0,77 - Balkanika Music TV
+udp://@239.1.1.197:1234
+#EXTINF:0,78 - CMC - Croatian Music Channel 
+udp://@239.1.1.236:1234
+#EXTINF:0,79 - DM SAT Televizija
+udp://@239.1.1.198:5000
+#EXTINF:0,80 - MTV Adria
+udp://@239.1.1.6:1234
+#EXTINF:0,81 - Pink Music
+udp://@239.1.1.223:5000
+#EXTINF:0,82 - DanceTrippin
+udp://@239.1.1.227:5000
+#EXTINF:0,83 - Mezzo
+udp://@239.1.1.81:5000
+#EXTINF:0,84 - MTV Rocks
+udp://@239.1.1.162:5000
+#EXTINF:0,85 - MTV Dance
+udp://@239.1.1.159:5000
+#EXTINF:0,86 - MTV Hits
+udp://@239.1.1.160:5000
+#EXTINF:0,87 - Trace TV
+udp://@239.1.1.124:5000
+#EXTINF:0,88 - VH1
+udp://@239.1.1.129:5000
+#EXTINF:0,89 - VH1 Classic
+udp://@239.1.1.130:5000
+#EXTINF:0,90 - Al Jazeera English
+udp://@239.1.1.153:5000
+#EXTINF:0,91 - BBC World
+udp://@239.1.1.40:5000
+#EXTINF:0,92 - Bloomberg EU
+udp://@239.1.1.43:5000
+#EXTINF:0,93 - CCTV News
+udp://@239.1.1.161:5000
+#EXTINF:0,94 - CNBC
+udp://@239.1.1.102:5000
+#EXTINF:0,95 - CNN International
+udp://@239.1.1.50:5000
+#EXTINF:0,96 - Europe by Satellite
+udp://@239.1.1.59:5000
+#EXTINF:0,97 - Fox News
+udp://@239.1.1.164:5000
+#EXTINF:0,98 - France 24 French
+udp://@239.1.1.225:5000
+#EXTINF:0,99 - France 24 English
+udp://@239.1.1.220:5000
+#EXTINF:0,100 - N 24
+udp://@239.1.1.141:5000
+#EXTINF:0,101 - NHK World
+udp://@239.1.1.217:5000
+#EXTINF:0,102 - Russia Today
+udp://@239.1.1.192:5000
+#EXTINF:0,103 - Sky News
+udp://@239.1.1.165:5000
+#EXTINF:0,104 - TV 5 Europe
+udp://@239.1.1.126:5000
+#EXTINF:0,105 - RTVE
+udp://@239.1.1.128:5000
+#EXTINF:0,106 - 24Kitchen Adria
+udp://@239.1.1.117:5000
+#EXTINF:0,107 - 3SAT
+udp://@239.1.1.30:5000
+#EXTINF:0,108 - Das Erste (ARD)
+udp://@239.1.1.52:5000
+#EXTINF:0,109 - E! Entertaintment
+udp://@239.1.1.231:5000
+#EXTINF:0,110 - Fashion TV
+udp://@239.1.1.68:5000
+#EXTINF:0,111 - Fine Living Network
+udp://@239.1.1.48:5000
+#EXTINF:0,112 - Ginx TV
+udp://@239.1.1.233:5000
+#EXTINF:0,113 - Kabel 1
+udp://@239.1.1.77:5000
+#EXTINF:0,114 - Mediaset Italia
+udp://@239.1.1.202:5000
+#EXTINF:0,115 - Pro 7
+udp://@239.1.1.96:5000
+#EXTINF:0,116 - RTL
+udp://@239.1.1.108:5000
+#EXTINF:0,117 - RTL2
+udp://@239.1.1.109:5000
+#EXTINF:0,118 - SAT1
+udp://@239.1.1.112:5000
+#EXTINF:0,119 - Super RTL
+udp://@239.1.1.118:5000
+#EXTINF:0,120 - TL Novelas Europe
+udp://@239.1.1.120:5000
+#EXTINF:0,121 - VOX
+udp://@239.1.1.134:5000
+#EXTINF:0,122 - Zone Romantica
+udp://@239.1.1.105:5000
+#EXTINF:0,123 - Pink Plus
+udp://@239.17.1.0:5000
+#EXTINF:0,124 - Pink Extra
+udp://@239.17.1.8:5000
+#EXTINF:0,125 - Pink Film
+udp://@239.17.1.4:5000
+#EXTINF:0,126 - Pink Folk
+udp://@239.17.1.12:5000
+#EXTINF:0,127 - HRT 1
+udp://@239.1.1.74:5000
+#EXTINF:0,128 - HRT 2
+udp://@239.1.1.75:5000
+#EXTINF:0,129 - Hayat SAT
+udp://@239.1.1.72:5000
+#EXTINF:0,130 - MKTV-SAT
+udp://@239.1.1.79:5000
+#EXTINF:0,131 - OBN
+udp://@239.1.1.88:5000
+#EXTINF:0,132 - RTCG
+udp://@239.1.1.106:5000
+#EXTINF:0,133 - RTK Kosova
+udp://@239.1.1.107:5000
+#EXTINF:0,134 - BNTV
+udp://@239.1.1.101:5000
+#EXTINF:0,135 - RTS
+udp://@239.1.1.110:5000
+#EXTINF:0,136 - FR2
+udp://@239.1.1.69:5000
+#EXTINF:0,137 - Duna 1
+udp://@239.1.1.58:5000
+#EXTINF:0,138 - Magyar Televizio 2
+udp://@239.1.1.84:5000
+#EXTINF:0,139 - ORF1
+udp://@239.1.1.89:5000
+#EXTINF:0,140 - ORF2
+udp://@239.1.1.90:5000
+#EXTINF:0,141 - RAI 1
+udp://@239.1.1.240:5000
+#EXTINF:0,142 - RAI 2
+udp://@239.1.1.98:5000
+#EXTINF:0,143 - RAI 3
+udp://@239.1.1.99:5000
+#EXTINF:0,144 - RBC TV
+udp://@239.1.1.226:5000
+#EXTINF:0,145 - TV Polonia
+udp://@239.1.1.166:5000
+#EXTINF:0,146 - ZDF
+udp://@239.1.1.137:5000
+#EXTINF:0,147 - EWTN Europe
+udp://@239.1.1.65:5000
+#EXTINF:0,148 - Arena TV
+udp://@239.1.1.178:5000
+#EXTINF:0,149 - ATM Kranjska Gora
+udp://@239.1.1.18:5000
+#EXTINF:0,150 - MediaTV
+udp://@239.1.1.5:5000
+#EXTINF:0,151 - Gea TV
+udp://@239.1.1.42:5000
+#EXTINF:0,152 - H2O
+udp://@239.1.1.182:5000
+#EXTINF:0,153 - Hit TV
+udp://@239.1.1.245:5000
+#EXTINF:0,154 - Kanal 10
+udp://@239.1.1.17:5000
+#EXTINF:0,155 - Moj TV
+udp://@239.1.1.41:5000
+#EXTINF:0,156 - PETV
+udp://@239.1.1.214:5000
+#EXTINF:0,157 - R Kanal+
+udp://@239.1.1.22:5000
+#EXTINF:0,158 - SIP TV
+udp://@239.1.1.24:5000
+#EXTINF:0,159 - Sponka TV
+udp://@239.1.1.19:5000
+#EXTINF:0,160 - Sponka Arena
+udp://@239.1.1.177:5000
+#EXTINF:0,161 - S-TV Skledar
+udp://@239.1.1.103:5000
+#EXTINF:0,162 - Studio 12
+udp://@239.1.1.242:5000
+#EXTINF:0,163 - TVM
+udp://@239.1.1.14:5000
+#EXTINF:0,164 - TV Celje
+udp://@239.1.1.181:5000
+#EXTINF:0,165 - TV Ljubljana
+udp://@239.1.1.25:5000
+#EXTINF:0,166 - Teve Nakupi
+udp://@239.1.1.179:5000
+#EXTINF:0,167 - TV Oron
+udp://@239.1.1.36:5000
+#EXTINF:0,168 - TV SG
+udp://@239.1.1.2:5000
+#EXTINF:0,169 - Tur TV
+udp://@239.1.1.46:5000
+#EXTINF:0,170 - ViTel
+udp://@239.1.1.3:5000
+#EXTINF:0,171 - AS
+udp://@239.1.1.33:5000
+#EXTINF:0,172 - Folk Plus
+udp://@239.14.1.4:5000
+#EXTINF:0,173 - Kohavision
+udp://@239.14.1.0:5000
+#EXTINF:0,174 - RTV Shqiptar
+udp://@239.1.1.80:5000
+#EXTINF:0,175 - RTV 21 PLUS
+udp://@239.13.1.220:5000
+#EXTINF:0,176 - Tring 7
+udp://@239.13.1.212:5000
+#EXTINF:0,177 - Tring Max
+udp://@239.14.1.8:5000
+#EXTINF:0,178 - Tring Shqip
+udp://@239.14.1.12:5000
+#EXTINF:0,179 - Tring Tring
+udp://@239.14.1.16:5000
+#EXTINF:0,180 - Tring Vizion+
+udp://@239.14.1.20:5000
+#EXTINF:0,181 - TV 21
+udp://@239.13.1.208:5000
+#EXTINF:0,182 - Alternativna TV
+udp://@239.13.1.88:5000
+#EXTINF:0,183 - Al Jazeera Balkans
+udp://@239.13.1.120:5000
+#EXTINF:0,184 - BHT 1
+udp://@239.13.1.96:1234
+#EXTINF:0,185 - Elta TV
+udp://@239.14.1.64:5000
+#EXTINF:0,186 - FTV
+udp://@239.13.1.100:1234
+#EXTINF:0,187 - Hayat TV BiH
+udp://@239.13.1.104:1234
+#EXTINF:0,188 - Hema
+udp://@239.13.1.192:1234
+#EXTINF:0,189 - NTV IC Kakanj
+udp://@239.14.1.36:1234
+#EXTINF:0,190 - OTV Valentino
+udp://@239.1.1.187:5000
+#EXTINF:0,191 - RTRS
+udp://@239.13.1.112:5000
+#EXTINF:0,192 - RTV TK
+udp://@239.14.1.44:1234
+#EXTINF:0,193 - RTV USK
+udp://@239.14.1.48:1234
+#EXTINF:0,194 - Top Music TV
+udp://@239.1.1.87:5000
+#EXTINF:0,195 - TV 1
+udp://@239.13.1.124:1234
+#EXTINF:0,196 - TV Sarajevo
+udp://@239.13.1.116:1234
+#EXTINF:0,197 - Vikom TV
+udp://@239.13.1.132:5000
+#EXTINF:0,198 - Jabuka (OTV)
+udp://@239.1.1.92:5000
+#EXTINF:0,199 - Kapital Network
+udp://@239.1.1.121:5000
+#EXTINF:0,200 - NET TV Kutina
+udp://@239.1.1.94:5000
+#EXTINF:0,201 - TV Istra
+udp://@239.1.1.95:5000
+#EXTINF:0,202 - TV Jadran
+udp://@239.1.1.237:5000
+#EXTINF:0,203 - Z1 televizija
+udp://@239.1.1.163:1234
+#EXTINF:0,204 - A2
+udp://@239.13.1.232:5000
+#EXTINF:0,205 - AB TV
+udp://@239.13.1.240:5000
+#EXTINF:0,206 - Alfa TV
+udp://@239.13.1.92:5000
+#EXTINF:0,207 - Alsat Macedonia
+udp://@239.14.1.32:5000
+#EXTINF:0,208 - BOM TV
+udp://@239.13.1.140:5000
+#EXTINF:0,209 - Jungle TV
+udp://@239.13.1.236:5000
+#EXTINF:0,210 - K15 Music
+udp://@239.13.1.144:5000
+#EXTINF:0,211 - Kanal 5 Plus
+udp://@239.13.1.156:5000
+#EXTINF:0,212 - MTV 1
+udp://@239.13.1.244:5000
+#EXTINF:0,213 - MTV 2
+udp://@239.13.1.136:5000
+#EXTINF:0,214 - MTV 3
+udp://@239.13.1.248:5000
+#EXTINF:0,215 - Naša TV
+udp://@239.13.1.252:5000
+#EXTINF:0,216 - Sitel 3
+udp://@239.14.1.24:5000
+#EXTINF:0,217 - Sky Net Skopje
+udp://@239.13.1.152:5000
+#EXTINF:0,218 - Telma TV
+udp://@239.14.1.28:5000
+#EXTINF:0,219 - TV Sitel
+udp://@239.13.1.160:5000
+#EXTINF:0,220 - RTV Atlas
+udp://@239.1.1.66:5000
+#EXTINF:0,221 - Astro TV
+udp://@239.1.1.44:5000
+#EXTINF:0,222 - B 92
+udp://@239.13.1.52:5000
+#EXTINF:0,223 - B 92 Info
+udp://@239.13.1.56:5000
+#EXTINF:0,224 - Happy TV
+udp://@239.13.1.68:5000
+#EXTINF:0,225 - KCN
+udp://@239.1.1.203:5000
+#EXTINF:0,226 - KCN Music
+udp://@239.1.1.218:5000
+#EXTINF:0,227 - Melos TV
+udp://@239.1.1.148:5000
+#EXTINF:0,228 - PRVA Srbska TV
+udp://@239.13.1.48:5000
+#EXTINF:0,229 - RTS 1
+udp://@239.13.1.36:5000
+#EXTINF:0,230 - RTS 2
+udp://@239.13.1.40:5000
+#EXTINF:0,231 - TV Duga Novi Sad
+udp://@239.1.1.199:5000
+#EXTINF:0,232 - TV Svet Plus Beograd
+udp://@239.1.1.71:5000
+#EXTINF:0,233 - SLO HD
+udp://@239.1.1.193:5000
+#EXTINF:0,234 - Outdoor Channel HD
+udp://@239.1.1.234:5000
+#EXTINF:0,235 - Anixe HD
+udp://@239.1.1.175:5000
+#EXTINF:0,236 - Astra Promo HD
+udp://@239.1.1.176:5000
+#EXTINF:0,237 - Magyar Televizio 2 HD
+udp://@239.1.1.201:5000
+#EXTINF:0,238 - Arte HD
+udp://@239.1.1.174:5000
+#EXTINF:0,239 - Das Erste (ARD) HD
+udp://@239.1.1.173:5000
+#EXTINF:0,240 - Servus TV HD
+udp://@239.1.1.207:5000
+#EXTINF:0,241 - ZDF HD
+udp://@239.1.1.180:5000
+#EXTINF:0,242 - Discovery Channel HD
+udp://@239.19.1.1:5000
+#EXTINF:0,243 - Eurosport HD
+udp://@239.19.1.5:5000
+#EXTINF:0,244 - Fashion TV HD
+udp://@239.19.1.9:5000
+#EXTINF:0,245 - I-Concerts HD
+udp://@239.19.1.41:5000
+#EXTINF:0,246 - Luxe.TV HD
+udp://@239.19.1.25:5000
+#EXTINF:0,247 - MyZen.tv HD
+udp://@239.19.1.13:5000
+#EXTINF:0,248 - National Geographic HD
+udp://@239.19.1.17:5000
+#EXTINF:0,249 - National Geographic Wild HD
+udp://@239.19.1.21:5000
+#EXTINF:0,250 - History Channel HD
+udp://@239.19.1.29:5000
+#EXTINF:0,251 - Trace Sports HD
+udp://@239.19.1.37:5000
+#EXTINF:0,252 - Travel Channel HD
+udp://@239.19.1.33:5000
+#EXTINF:0,253 - 3D HD1 (P)
+udp://@239.19.1.45:5000
+#EXTINF:0,254 - 3D Switch (P)
+udp://@239.19.1.49:5000
+#EXTINF:0,255 - Free-X TV
+udp://@239.18.1.0:5000
+#EXTINF:0,256 - French Lover TV
+udp://@239.18.1.20:5000
+#EXTINF:0,257 - Hustler TV
+udp://@239.18.1.8:5000
+#EXTINF:0,258 - Net XXL
+udp://@239.18.1.28:5000
+#EXTINF:0,259 - Private Spice
+udp://@239.18.1.12:5000
+#EXTINF:0,260 - SCT
+udp://@239.18.1.16:5000
+#EXTINF:0,261 - XTSY
+udp://@239.18.1.4:5000

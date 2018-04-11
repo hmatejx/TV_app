@@ -1,0 +1,24 @@
+#!/bin/sh
+#
+# A simple xinit script for launching the TV menu.
+#
+# Example use (launch TV menu on display 1)
+#  xinit ./tvapp -- :1
+
+# set libvlc verbosity level
+export VLC_VERBOSE=0
+
+# change to the directory
+cd /home/matej/TV
+
+# set root window to black
+/usr/bin/xsetroot -solid black
+
+# set blank time (10 minutes)
+/usr/bin/xset +dpms s 600
+
+# launch main menu
+echo "Launching menu ..."
+/usr/bin/python tvapp.py >TVApp.log 2>&1
+
+exit 0

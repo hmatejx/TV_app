@@ -1,0 +1,68 @@
+#EXTM3U
+
+#EXTINF:0,1 - SLO 1
+udp://@239.1.1.115:5000
+
+#EXTINF:0,2 - SLO 2
+udp://@239.1.1.116:5000
+
+#EXTINF:0,4 - POP TV
+udp://@239.1.1.9:5000
+
+#EXTINF:0,3 - Kanal A
+udp://@239.1.1.8:5000
+
+#EXTINF:0,7 - POP KINO
+udp://@239.15.1.0:5000
+
+#EXTINF:0,8 - POP KINO 2
+udp://@239.15.1.4:5000
+
+#EXTINF:0,9 - Baby TV
+udp://@239.1.1.37:5000
+
+#EXTINF:0,10 - Da Vinci Learning
+udp://@239.1.1.158:5000
+
+#EXTINF:0,11 - Animal Planet
+udp://@239.1.1.34:1234
+
+#EXTINF:0,12 - National Geographic
+udp://@239.1.1.85:5000
+
+#EXTINF:0,13 - Discovery Channel
+udp://@239.1.1.53:5000
+
+#EXTINF:0,14 - Discovery Science
+udp://@239.1.1.55:5000
+
+#EXTINF:0,15 - History Channel
+udp://@239.1.1.135:5000
+
+#EXTINF:0,16 - Viasat Explorer
+udp://@239.1.1.133:5500
+
+#EXTINF:0,17 - Viasat History
+udp://@239.1.1.146:5500
+
+#EXTINF:0,18 - Viasat Nature
+udp://@239.1.1.208:5500
+
+#EXTINF:0,19 - Travel Channel
+udp://@239.1.1.125:5000
+
+#EXTINF:0,20 - HBO
+udp://@239.16.1.0:5000
+
+#EXTINF:0,21 - HBO Comedy
+udp://@239.16.1.4:5000
+
+#EXTINF:0,22 - Cinemax
+udp://@239.16.1.8:5000
+
+#EXTINF:0,23 - Cinemax 2
+udp://@239.16.1.12:5000
+
+#EXTINF:0,24 - CineStar TV
+udp://@239.1.1.1:1234
+

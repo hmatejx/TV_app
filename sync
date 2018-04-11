@@ -1,0 +1,53 @@
+#!/bin/bash
+
+pwd=$(basename $PWD)
+
+if [ "$pwd" != "TV" ]; then
+    echo "Error! This script can only be run from the TV directory."
+    exit 1
+fi
+
+case $1 in
+
+    from)
+        echo "Syncing from mac-mini to "`hostname`"..."
+    echo -n "Continue [y/N]? "
+    choice="n"
+    read ch
+    if [ ! -z "$ch" ]; then
+            choice=$ch
+        fi
+    if [ $choice == "y" ] || [ $choice == "Y" ]; then
+        rsync -Pavze ssh --delete mac-mini:TV/ .
+            echo "Done."
+        else
+            echo "Aborting."
+        fi
+    ;;
+
+    to)
+        echo "Syncing from "`hostname`" to mac-mini..."
+    echo -n "Continue [y/N]? "
+    choice="n"
+    read ch
+    if [ ! -z "$ch" ]; then
+            choice=$ch
+        fi
+        if [ $choice == "y" ] || [ $choice == "Y" ]; then
+        echo "Deleting .py~ files..."
+            find . -type f -name \*.py~ | xargs rm -f 
+            rsync -Pavze ssh --delete . mac-mini:TV/
+        echo "Done."
+        else
+            echo "Aborting."
+        fi
+    ;;
+
+    *)
+    echo "Usage: sync <direction>"
+    echo "  where direction is either \"from\" or \"to\" (sans quotes)."
+     ;;
+esac
+
+exit 0
+
